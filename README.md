@@ -45,7 +45,7 @@ Create or modify a file (e.g., `sample_program.txt`) with one binary instruction
 
 ### 3. Run the Simulator
 ```bash
-python3 sim.py sample_program.txt
+python3 sim.py 
 ```
 After execution, the simulator will produce:
 - `memory_dump.txt`: snapshot of memory data segment
