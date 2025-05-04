@@ -31,7 +31,7 @@ This simulator is designed for educational purposes as part of a university-leve
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Ghostalex7/mips-simulator.git
-cd mips-simulator
+cd Mips-simulator
 ```
 
 ### 2. Prepare Input
